@@ -1,4 +1,5 @@
 Landpage criado por Larissa Kich e replicado por Joao Morais
+
 🎯 Funcionalidades da Landing Page
 ✔️ Header com navegação
 
